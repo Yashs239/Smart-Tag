@@ -6,3 +6,9 @@ Combining the abilities of both the tags, Smart Tag can easily help in identifyi
 Prospective implementation requirements:- 
 1) This system can be used to secure the major ports of India one by one and then can be connected to each other in different phases of the project.
 2) This system can be effectively used for monitoring and controlling the increased number of cases where the Chinese Army is caught trespassing into Indian side of Pangong Tso lake. 
+
+Relevance to Indian Navy :- 
+1) The attacks similar to the one in Mumbai on 26th November,2011 can be prevented.
+2) The Exclusive Economic Zone can act as a buffer zone as it extends up to 200 nautical miles off the Indian coast. 
+3) Growing agitations with China in the Indian Ocean and in the Pangong Tso lake in Ladakh. 
+4) Illegal trade between India and Sri Lanka should be ceased.
